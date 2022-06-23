@@ -47,14 +47,8 @@
                 href="#"
               ></a>
               <a
-                class="icon-hdSprite icon-ft-heart a-move a-moveHover"
+                class="icon-hdSprite icon-ft-weixin a-move a-moveHover"
                 title="aaa"
-                target="_blank"
-                href="#"
-              ></a>
-              <a
-                class="icon-ft-qun a-move a-moveHover"
-                title="group"
                 target="_blank"
                 href="#"
               ></a>
